@@ -10,8 +10,8 @@ export default function App() {
   return (
     <Router>
       <header>
-        <div classname="logo">Creative Agency</div>
-        <div classname="toggle">
+        <div className="logo">Creative Agency</div>
+        <div className="toggle">
           <div className="navigation">
             <ul>
               <li>

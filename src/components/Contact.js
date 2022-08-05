@@ -56,6 +56,7 @@ export default function App() {
             <div className="details">
               <h4>Email</h4>
               <a href="mailto:anyone@example.com">anyone@example.com</a>
+              <br />
               <a href="mailto:anyone@example.com">anyone@example.com</a>
             </div>
           </div>
@@ -64,6 +65,7 @@ export default function App() {
             <div className="details">
               <h4>Call</h4>
               <a href="tel:+19785555555">+1 978 555 5555</a>
+              <br />
               <a href="tel:+19784444444">+1 978 555 4444</a>
             </div>
           </div>

@@ -1,5 +1,6 @@
 import React from 'react';
 // import '../style.css';
+import portfolio_item1 from '../';
 
 export default function App() {
   return (
