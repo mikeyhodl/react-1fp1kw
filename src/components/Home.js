@@ -27,9 +27,10 @@ export default function App() {
         <Link to="/services" className="btn">
           Services
         </Link>
+        {/* <br />
         <Link to="/" className="btn">
           Home
-        </Link>
+        </Link> */}
       </div>
     </section>
   );
